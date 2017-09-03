@@ -10,7 +10,7 @@ Documents
 
 *  **Titanic.ipynb**: This is the Jupyter Notebook containing the detailed report for my Intro into Data Analysis project.
 * **Titanic.html**: The html export of my notebook for those who don't have Jupyter installed. A simple browser is enough to view the report.
-* **titanic-data.csv*: The csv file downloaded from [Kaggle](https://www.kaggle.com/c/titanic/data) containing the training dataset.
+* **titanic-data.csv**: The csv file downloaded from [Kaggle](https://www.kaggle.com/c/titanic/data) containing the training dataset.
 *  **Udacity_Reviews.pdf**: This is Udacity Review for this project report.
 
 > **Notes**
